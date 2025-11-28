@@ -1,2 +1,0 @@
-# bit-cora
-Conceptos bitácora
